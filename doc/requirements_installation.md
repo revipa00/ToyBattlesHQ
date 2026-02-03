@@ -3,8 +3,11 @@
 ## 3.1.1 Requirements
 - Python >= 3.10
 - CMake >= 3.26
+- pkg-config >= 1.8.1
 - GCC >= 13 or MSVC >= 14.10 (Clang: untested)
 - C++23 standard or newer
+
+
 
 ## 3.1.2 Installation
 ### 3.1.2.1 Automatic Linux Setup
